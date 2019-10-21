@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IG Apps</string>
+    <string name="username">Username</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="password">Password</string>
+    <string name="move_activity">Log In</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_receuved">Data Diterima</string>
+    <string name="this_is_moveactivity">Nama Akun</string>
+    <string name="Followers">Followers</string>
+</resources>
